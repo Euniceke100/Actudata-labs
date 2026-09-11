@@ -1,5 +1,5 @@
 # ActuData Labs
-Actuarial & Data Science Solutions for Africa
+Actuarial & Data Science Solutions
 
 ## About Us
 We help businesses turn data into decisions.
